@@ -55,17 +55,6 @@ I build scalable software systems, AI applications, and data-driven platforms.
 - Implemented **Leaflet-based geospatial visualization**
 - Developed optimized reporting and analytics pipelines
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Surajk111000&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajk111000&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -81,6 +70,9 @@ https://stately-kulfi-e34491.netlify.app/profile
 
 🧠 LeetCode  
 https://leetcode.com/u/surajk11/
+
+📊 Kaggle  
+https://www.kaggle.com/surajk201611
 
 📷 Instagram  
 https://www.instagram.com/surajk11/
