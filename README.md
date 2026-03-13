@@ -22,7 +22,7 @@ I build scalable software systems, AI applications, and data-driven platforms.
 ## 🛠 Tech Stack
 
 ### Programming
-`Python` `SQL` `C++` `JavaScript` `PHP`
+`Python` `SQL` `ML` `JavaScript` `PHP`
 
 ### Frameworks & Libraries
 `FastAPI` `React` `TensorFlow` `scikit-learn` `pandas`
