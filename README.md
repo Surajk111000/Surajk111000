@@ -24,7 +24,7 @@
 
 - 🎓 **M.Tech Aerospace Engineering** — IIT Bombay  
 - 🎓 **B.Tech Aerospace Engineering & Applied Mechanics** — IIEST Shibpur  
-- 💼 **Software Engineer & Data Analyst**
+- 💼 **Software Engineer & Data Scientist **
 - 📊 Focused on **AI Systems, Data Engineering, Data Science, and Scalable Backend Systems**
 - 🌍 Built and optimized **large-scale GPS tracking and geospatial systems**
 - 🤖 Developed **AI Lecture Intelligence Platform** using **RAG + LangChain**
