@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">Software Engineer & Data Analyst | IIT Bombay | IIEST Shibpur</h3>
+<h3 align="center">Software Engineer & Data Scientist | IIT Bombay | IIEST Shibpur</h3>
 
 <p align="center">
   I build scalable software systems, AI applications, and data-driven platforms.
